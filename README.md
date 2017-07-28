@@ -120,6 +120,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 <a name="apl-general-purpose" />
 #### General-Purpose Machine Learning
+
 * [naive-apl](https://github.com/mattcunningham/naive-apl) - Naive Bayesian Classifier implementation in APL
 
 <a name="c" />
@@ -127,6 +128,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 <a name="c-general-purpose" />
 #### General-Purpose Machine Learning
+
 * [Darknet](https://github.com/pjreddie/darknet) - Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 * [Recommender](https://github.com/GHamrouni/Recommender) - A C library for product recommendations/suggestions using collaborative filtering (CF).
 * [Hybrid Recommender System](https://github.com/SeniorSA/hybrid-rs-trainner) - A hybrid recomender system based upon scikit-learn algorithms.
@@ -196,14 +198,17 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [ucto](https://github.com/proycon/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 #### Speech Recognition
+
 * [Kaldi](http://kaldi.sourceforge.net/) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 
 <a name="cpp-sequence" />
 #### Sequence Analysis
+
 * [ToPS](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet.
 
 <a name="cpp-gestures" />
 #### Gesture Detection
+
 * [grt](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
 <a name="common-lisp" />
@@ -306,6 +311,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 <a name="haskell-general-purpose" />
 #### General-Purpose Machine Learning
+
 * [haskell-ml](https://github.com/ajtulloch/haskell-ml) - Haskell implementations of various ML algorithms.
 * [HLearn](https://github.com/mikeizbicki/HLearn) - a suite of libraries for interpreting machine learning models according to their algebraic structure.
 * [hnn](https://wiki.haskell.org/HNN) - Haskell Neural Network library.
@@ -318,6 +324,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 <a name="java-nlp" />
 #### Natural Language Processing
+
 * [Cortical.io](http://www.cortical.io/) - Retina: an API performing complex NLP operations (disambiguation, classification, streaming text filtering, etc...) as quickly and intuitively as the brain.
 * [CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words
 * [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences
@@ -578,6 +585,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 <a name="lua-demos" />
 #### Demos and Scripts
+
 * [Core torch7 demos repository](https://github.com/e-lab/torch7-demos).
   * linear-regression, logistic-regression
   * face detector (training and detection as separate demos)
@@ -697,6 +705,7 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="ocaml-general-purpose">
 ### General-Purpose Machine Learning
+
 * [Oml](https://github.com/hammerlab/oml/) - A general statistics and machine learning library.
 * [GPR](http://mmottl.github.io/gpr) - Efficient Gaussian Process Regression in OCaml.
 * [Libra-Tk](http://libra.cs.uoregon.edu) - Algorithms for learning and inference with discrete probabilistic models.
@@ -760,6 +769,7 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="python-general-purpose" />
 #### General-Purpose Machine Learning
+
 * [machine learning](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines.  Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
 * [XGBoost](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python
@@ -873,6 +883,7 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="python-misc" />
 #### Misc Scripts / iPython Notebooks / Codebases
+
 * [BioPy](https://github.com/jaredmichaelsmith/BioPy) - Biologically-Inspired and Machine Learning Algorithms in Python.
 * [pattern_classification](https://github.com/rasbt/pattern_classification)
 * [thinking stats 2](https://github.com/Wavelets/ThinkStats2)
@@ -912,6 +923,7 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="python-neural networks"/>
 #### Neural networks
+
 * [Neural networks](https://github.com/karpathy/neuraltalk) - NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
 * [Neuron](https://github.com/molcik/Neuron) - Neuron is simple class for time series predictions. It's utilize LNU (Linear Neural Unit), QNU (Quadratic Neural Unit), RBF (Radial Basis Function), MLP (Multi Layer Perceptron), MLP-ELM (Multi Layer Perceptron - Extreme Learning Machine) neural networks learned with Gradient descent or LeLevenberg–Marquardt algorithm.
 
@@ -987,6 +999,7 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="rust-general-purpose" />
 #### General-Purpose Machine Learning
+
 * [deeplearn-rs](https://github.com/tedsta/deeplearn-rs) - deeplearn-rs provides simple networks that use matrix multiplication, addition, and ReLU under the MIT license.
 * [rustlearn](https://github.com/maciejkula/rustlearn) - a machine learning framework featuring logistic regression, support vector machines, decision trees and random forests.
 * [rusty-machine](https://github.com/AtheMathmo/rusty-machine) - a pure-rust machine learning library.
@@ -1194,6 +1207,7 @@ on MNIST digits[DEEP LEARNING]
 
 <a name="tensor-general-purpose" />
 #### General-Purpose Machine Learning
+
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - A list of all things related to TensorFlow
 
 <a name="credits" />
