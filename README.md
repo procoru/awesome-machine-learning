@@ -181,6 +181,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Vowpal Wabbit (VW)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - A fast out-of-core learning system.
 * [Warp-CTC](https://github.com/baidu-research/warp-ctc) - A fast parallel implementation of Connectionist Temporal Classification (CTC), on both CPU and GPU.
 * [XGBoost](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
+* [CatBoost](https://github.com/catboost/catboost) - CatBoost is a machine learning method based on gradient boosting over decision trees.
 
 <a name="cpp-nlp" />
 #### Natural Language Processing
